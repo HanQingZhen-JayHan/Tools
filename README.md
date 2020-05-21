@@ -76,7 +76,7 @@ Free multi-platform database tool for developers, database administrators, analy
 
 
 
-<img src="https://www.teamviewer.com/wp-content/themes/tv-wordpress-theme/dist/media/favicon.png" style="zoom:40%;" /> **[Team Viewer](https://www.teamviewer.com/en-us/)**
+<img src="https://www.teamviewer.com/wp-content/themes/tv-wordpress-theme/dist/media/favicon.png" width="48" /> **[Team Viewer](https://www.teamviewer.com/en-us/)**
 
 TeamViewer is the world’s first remote support technology to allow screen sharing on iOS devices from any desktop or mobile device.
 
