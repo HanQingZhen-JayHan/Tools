@@ -6,21 +6,21 @@ These tools I list are amazing, make my work efficiently and save my life.
 
 ## Content :
 
-1. Software
+1. Softwares
 2. Books
-3. Website
+3. Websites
 
 
 
-## 1. Software
+## 1. Softwares
 
-#### 1. Mac OS
+#### 1.1 Mac OS
 
 <img src="https://www.alfredapp.com/favicon.ico" width = 48 /> 
 
 **[Alfred](https://www.alfredapp.com/)** 
 
-Alfred is an award-winning app for macOS which boosts your efficiency with hotkeys, keywords, text expansion and more. Search your Mac and the web, and be more productive with custom actions to control your Mac.
+> Alfred is an award-winning app for macOS which boosts your efficiency with hotkeys, keywords, text expansion and more. Search your Mac and the web, and be more productive with custom actions to control your Mac.
 
 
 
@@ -28,7 +28,7 @@ Alfred is an award-winning app for macOS which boosts your efficiency with hotke
 
  **[Gifski ](https://gif.ski/)**  
 
-Gifski converts video frames to GIF animations using pngquant's fancy features for efficient cross-frame palettes and temporal dithering.
+> Gifski converts video frames to GIF animations using pngquant's fancy features for efficient cross-frame palettes and temporal dithering.
 
 
 
@@ -36,7 +36,7 @@ Gifski converts video frames to GIF animations using pngquant's fancy features f
 
  **[Oh My Zsh](https://ohmyz.sh/)**
 
-Oh My Zsh will not make you a 10x developer...but you may feel like one.
+> Oh My Zsh will not make you a 10x developer...but you may feel like one.
 
 
 
@@ -44,7 +44,7 @@ Oh My Zsh will not make you a 10x developer...but you may feel like one.
 
  **[Source Tree](https://www.sourcetreeapp.com/)**
 
-Simplicity and power in a beautiful Git GUI.
+> Simplicity and power in a beautiful Git GUI.
 
 
 
@@ -52,7 +52,7 @@ Simplicity and power in a beautiful Git GUI.
 
  **[Typora](https://typora.io/)**
 
-A markdown editor, markdown reader.
+> A markdown editor, markdown reader.
 
 
 
@@ -60,7 +60,7 @@ A markdown editor, markdown reader.
 
  **[XMind](https://www.xmind.net/)**
 
-XMind, a full-featured mind mapping and brainstorming tool, designed to generate ideas, inspire creativity, brings productivity in a remote WFH team.
+> XMind, a full-featured mind mapping and brainstorming tool, designed to generate ideas, inspire creativity, brings productivity in a remote WFH team.
 
 
 
@@ -68,7 +68,7 @@ XMind, a full-featured mind mapping and brainstorming tool, designed to generate
 
 **[The Unarchiver](https://theunarchiver.com/)**
 
-Open any archive in seconds.
+> Open any archive in seconds.
 
 
 
@@ -76,7 +76,7 @@ Open any archive in seconds.
 
 **[Charles](https://www.charlesproxy.com/)**
 
-Charles is an HTTP proxy / HTTP monitor / Reverse Proxy that enables a developer to view all of the HTTP and SSL / HTTPS traffic between their machine and the Internet. This includes requests, responses and the HTTP headers (which contain the cookies and caching information).
+> Charles is an HTTP proxy / HTTP monitor / Reverse Proxy that enables a developer to view all of the HTTP and SSL / HTTPS traffic between their machine and the Internet. This includes requests, responses and the HTTP headers (which contain the cookies and caching information).
 
 
 
@@ -84,7 +84,7 @@ Charles is an HTTP proxy / HTTP monitor / Reverse Proxy that enables a developer
 
 **[Atom](https://atom.io/)**
 
-A hackable text editor for the 21st Centur.
+> A hackable text editor for the 21st Centur.
 
 
 
@@ -92,7 +92,7 @@ A hackable text editor for the 21st Centur.
 
 **[DBeaver](https://dbeaver.io/)**
 
-Free multi-platform database tool for developers, database administrators, analysts and all people who need to work with databases. Supports all popular databases: MySQL, PostgreSQL, SQLite, Oracle, DB2, SQL Server, Sybase, MS Access, Teradata, Firebird, Apache Hive, Phoenix, Presto, etc.
+> Free multi-platform database tool for developers, database administrators, analysts and all people who need to work with databases. Supports all popular databases: MySQL, PostgreSQL, SQLite, Oracle, DB2, SQL Server, Sybase, MS Access, Teradata, Firebird, Apache Hive, Phoenix, Presto, etc.
 
 
 
@@ -100,25 +100,25 @@ Free multi-platform database tool for developers, database administrators, analy
 
  **[Team Viewer](https://www.teamviewer.com/en-us/)**
 
-TeamViewer is the world’s first remote support technology to allow screen sharing on iOS devices from any desktop or mobile device.
+> TeamViewer is the world’s first remote support technology to allow screen sharing on iOS devices from any desktop or mobile device.
 
 
 
-#### 2. Linux
+#### 1.2 Linux
 
 
 
-#### 3. Windows
+#### 1.3 Windows
 
 <img src="https://notepad-plus-plus.org/favicon.ico" width = 48 /> 
 
 **[Note Pad ++](https://notepad-plus-plus.org/downloads/)**
 
-Notepad++ is a text and source code editor for use with Microsoft Windows.
+> Notepad++ is a text and source code editor for use with Microsoft Windows.
 
 
 
-## 2. Book
+## 2. Books
 
 #### 2.1 Android
 
@@ -136,7 +136,7 @@ Notepad++ is a text and source code editor for use with Microsoft Windows.
 
 
 
-## 3. Website
+## 3. Websites
 
 #### 3.1 Android
 
