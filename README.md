@@ -6,9 +6,9 @@ These tools I list are amazing, make my work efficiently and save my life.
 
 ## Content :
 
-1. Softwares
-2. Books
-3. Websites
+1. [Softwares](#1-softwares)
+2. [Books](#2-books)
+3. [Websites](#3-websites)
 
 
 
