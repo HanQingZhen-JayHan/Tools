@@ -104,6 +104,22 @@ These tools I list are amazing, make my work efficiently and save my life.
 
 
 
+![](https://www.postman.com/icons/icon-48x48.png?v=9a2f6f2a305951852f949fcec9a89efd)  
+
+**[Postman](https://www.postman.com/)**
+
+Simplify each step of building an API and streamline collaboration so you can create better APIs—faster.
+
+
+
+<img src="https://www.scootersoftware.com/favicon.ico" width = 48/> 
+
+**[Beyond Compare](https://www.scootersoftware.com/)**
+
+*Beyond Compare* is a multi-platform utility that combines directory compare and file compare functions in one package.
+
+
+
 #### 1.2 Linux
 
 
