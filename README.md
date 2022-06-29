@@ -187,15 +187,25 @@ Simplify each step of building an API and streamline collaboration so you can cr
 
 ## 4. Terminals
 #### 4.1 Bash
+
 .bashrc
+
 \# Customize Bash
+
 if [-f ~/.bash_general]; then
+
      . ~/.bash_genearl;
+     
      alias bash_genal='vi ~/.bash_general'
+     
 fi
+
 if [-f ~/.bash_project]; then
+
      . ~/.bash_project;
+     
      alias bash_project='vi ~/.bash_project'
+     
 fi
 
 ## Reference
