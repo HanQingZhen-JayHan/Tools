@@ -9,6 +9,7 @@ These tools I list are amazing, make my work efficiently and save my life.
 1. [Softwares](#1-softwares)
 2. [Books](#2-books)
 3. [Websites](#3-websites)
+4. [Terminals](#4-terminals)
 
 
 
@@ -184,7 +185,18 @@ Simplify each step of building an API and streamline collaboration so you can cr
 
 [Markdown中文手册](http://xianbai.me/learn-md/article/about/readme.html)
 
-
+## 4. Terminals
+#### 4.1 Bash
+.bashrc
+\# Customize Bash
+if [-f ~/.bash_general]; then
+     . ~/.bash_genearl;
+     alias bash_genal='vi ~/.bash_general'
+fi
+if [-f ~/.bash_project]; then
+     . ~/.bash_project;
+     alias bash_project='vi ~/.bash_project'
+fi
 
 ## Reference
 
